@@ -1,0 +1,12 @@
+D:\Code\FileTransfer\DatabaseSpecific\bin\Debug\netstandard2.0\Doc2PdfApiDBSpecific.dll.config
+D:\Code\FileTransfer\DatabaseSpecific\bin\Debug\netstandard2.0\Doc2PdfApiDBSpecific.deps.json
+D:\Code\FileTransfer\DatabaseSpecific\bin\Debug\netstandard2.0\Doc2PdfApiDBSpecific.dll
+D:\Code\FileTransfer\DatabaseSpecific\bin\Debug\netstandard2.0\Doc2PdfApiDBSpecific.pdb
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.csproj.AssemblyReference.cache
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.AssemblyInfoInputs.cache
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.AssemblyInfo.cs
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.csproj.CoreCompileInputs.cache
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.sourcelink.json
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.dll
+D:\Code\FileTransfer\DatabaseSpecific\obj\Debug\netstandard2.0\Doc2PdfApiDBSpecific.pdb

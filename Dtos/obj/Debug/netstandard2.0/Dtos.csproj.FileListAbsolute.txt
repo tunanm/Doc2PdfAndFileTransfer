@@ -1,0 +1,11 @@
+D:\Code\FileTransfer\Dtos\bin\Debug\netstandard2.0\Dtos.deps.json
+D:\Code\FileTransfer\Dtos\bin\Debug\netstandard2.0\Dtos.dll
+D:\Code\FileTransfer\Dtos\bin\Debug\netstandard2.0\Dtos.pdb
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.csproj.AssemblyReference.cache
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.AssemblyInfoInputs.cache
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.AssemblyInfo.cs
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.csproj.CoreCompileInputs.cache
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.sourcelink.json
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.dll
+D:\Code\FileTransfer\Dtos\obj\Debug\netstandard2.0\Dtos.pdb

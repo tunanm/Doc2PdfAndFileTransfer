@@ -1,0 +1,11 @@
+D:\Code\FileTransfer\DatabaseGeneric\bin\Debug\netstandard2.0\Doc2PdfApi.deps.json
+D:\Code\FileTransfer\DatabaseGeneric\bin\Debug\netstandard2.0\Doc2PdfApi.dll
+D:\Code\FileTransfer\DatabaseGeneric\bin\Debug\netstandard2.0\Doc2PdfApi.pdb
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.csproj.AssemblyReference.cache
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.AssemblyInfoInputs.cache
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.AssemblyInfo.cs
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.csproj.CoreCompileInputs.cache
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.sourcelink.json
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.dll
+D:\Code\FileTransfer\DatabaseGeneric\obj\Debug\netstandard2.0\Doc2PdfApi.pdb
